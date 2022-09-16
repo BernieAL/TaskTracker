@@ -1,0 +1,34 @@
+
+
+    [
+
+        {
+            "taskID":"",
+            "taskInfo" : "Take Garbage out",
+            "completed" : false,
+            "dateAdded" : "12/1/22", 
+            "dateCompleted" :"12/1/22"
+        },
+        {
+            "taskID":"",
+            "taskInfo" : "Clean Kitchen",
+            "completed" : true,
+            "dateAdded" : "12/1/22", 
+            "dateCompleted" :"12/1/22"
+        },
+        {
+            "taskID":"",
+            "taskInfo" : "Take Garbage out",
+            "completed" : false,
+            "dateAdded" : "12/2/22", 
+            "dateCompleted" :"12/3/22"
+        },
+        {
+            "taskID":"",
+            "taskInfo" : "Take Garbage out",
+            "completed" : false,
+            "dateAdded" : "12/4/22", 
+            "dateCompleted" :"12/5/22"
+        }
+
+    ]
